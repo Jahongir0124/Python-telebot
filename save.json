@@ -1,0 +1,155 @@
+{
+    "ru": [
+        {
+            "name": "ORIENS_Volume 1_ ISSUE 9",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №9",
+            "pub_date": "08.10.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriensvolume-1-issue-9/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-10-05_09-30-24.jpg"
+        },
+        {
+            "name": "ORIENS VOLUME 1 ISSUE 8",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №8",
+            "pub_date": "02.10.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-8/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-08_09-17-45.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 7",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №7",
+            "pub_date": "19.09.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-7/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-19_21-18-37.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 6",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №6",
+            "pub_date": "26.08.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-6/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_6.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 4",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №4",
+            "pub_date": "23.08.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-4/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_4.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 3",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №3",
+            "pub_date": "22.08.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-3/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_3.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 1",
+            "description": "Журнал “Oriental Renaissance: Innovative, Educational, Natural and Social sciences”. Выпуск 1, №1",
+            "pub_date": "01.02.2021",
+            "link": "https://www.oriens.uz/ru/journal/oriens-volume-1-issue-1/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_1.jpg"
+        }
+    ],
+    "uz": [
+        {
+            "name": "ORIENS_Volume 1_ ISSUE 9",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №9",
+            "pub_date": "08.10.2021",
+            "link": "https://www.oriens.uz/journal/oriensvolume-1-issue-9/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-10-05_09-30-24.jpg"
+        },
+        {
+            "name": "ORIENS VOLUME 1 ISSUE 8",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №8",
+            "pub_date": "02.10.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-8/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-08_09-17-45.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 7",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №7",
+            "pub_date": "19.09.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-7/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-19_21-18-37.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 6",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №6",
+            "pub_date": "26.08.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-6/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_6.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 4",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №4",
+            "pub_date": "23.08.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-4/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_4.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 3",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №3",
+            "pub_date": "22.08.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-3/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_3.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 1",
+            "description": "“Oriental Renaissance: Innovative, Educational, Natural and Social sciences” jurnali. Tom 1, №1",
+            "pub_date": "01.02.2021",
+            "link": "https://www.oriens.uz/journal/oriens-volume-1-issue-1/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_1.jpg"
+        }
+    ],
+    "en": [
+        {
+            "name": "ORIENS_Volume 1_ ISSUE 9",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №9",
+            "pub_date": "08.10.2021",
+            "link": "https://www.oriens.uz/en/journal/oriensvolume-1-issue-9/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-10-05_09-30-24.jpg"
+        },
+        {
+            "name": "ORIENS VOLUME 1 ISSUE 8",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №8",
+            "pub_date": "02.10.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-8/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-08_09-17-45.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 7",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №7",
+            "pub_date": "19.09.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-7/",
+            "link_img": "https://www.oriens.uz/media/posters/photo_2021-09-19_21-18-37.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 6",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №6",
+            "pub_date": "26.08.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-6/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_6.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 4",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №4",
+            "pub_date": "23.08.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-4/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_4.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 3",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №3",
+            "pub_date": "22.08.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-3/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_3.jpg"
+        },
+        {
+            "name": "ORIENS Volume 1 ISSUE 1",
+            "description": "The journal “Oriental Renaissance: Innovative, Educational, Natural and Social sciences“.: Volume 1, №1",
+            "pub_date": "01.02.2021",
+            "link": "https://www.oriens.uz/en/journal/oriens-volume-1-issue-1/",
+            "link_img": "https://www.oriens.uz/media/posters/ORIENS_Volume_1_ISSUE_1.jpg"
+        }
+    ]
+}
